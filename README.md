@@ -1,2 +1,2 @@
 # google-homepage
-[link](http://htmlpreview.github.com/)
+[Project link](http://htmlpreview.github.io/?https://github.com/FrankGmz/google-homepage/blob/master/index.html)
