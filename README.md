@@ -1,2 +1,2 @@
 # google-homepage
-[link]("https://github.com/FrankGmz/google-homepage")
+[link](https://github.com/FrankGmz/google-homepage)
