@@ -72,39 +72,21 @@ footer {
     border-top: 1px solid #d6d6d6;
     color: #666;
 }
-
 ul#left {
     bottom: 0;
     left: 0;
     display: inline;
 }
-
-
-
 ul#right {
     bottom: 0;
     right: 0;
     display: inline;
-
-<<<<<<< HEAD
 }
-
 ul#left li{
     display:inline;
     float: left;
     padding: 10px;
 }
-
-=======
-}
-
-ul#left li{
-    display:inline;
-    float: left;
-    padding: 10px;
-}
-
->>>>>>> 4f6850817cbe4d4ade80e007e1cd37ebf6c4c46e
 ul#right li {
     display: inline;
     float: right;
